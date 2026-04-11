@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pranjal 👋
 
-<!--
-**pranjalyadav-codes/pranjalyadav-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Python
+- Java
+- Data Structures & Algorithms
+- Problem Solving
+- PostgreSQL (Database & SQL)
+- Basic Machine Learning
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Advanced Data Structures & Algorithms
+- Machine Learning (Advanced Concepts)
+- Business Data Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎯 Goals
+- Become strong in problem solving
+- Build real-world AI/ML projects
+- Prepare for top tech roles
+
+## 📈 What I'm Doing on GitHub
+- Documenting DSA patterns
+- Uploading Python & Java programs
+- Building projects step by step
+
+
 -->

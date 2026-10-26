@@ -1,63 +1,46 @@
 
 <div align="center">
 
-# `pranjal@yadav:~$ whoami`
+# Pranjal Yadav
 
-### Pranjal Yadav
-**Aspiring AI/ML Engineer | Data Science Student @ IIT Madras**
+### Aspiring AI/ML Engineer
 
-```text
-> Learning the mathematics behind intelligence.
-> Building the skills to turn data into useful solutions.
-> Improving through code, experimentation, and consistency.
-```
+**Data Science Student @ IIT Madras**
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/pranjalyadav-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/pranjalyadavcoding/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=00FF41)](https://leetcode.com/u/Yadavpranjallearning/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=00FF41)](https://www.kaggle.com/pranjalyadavcodes)
+*Learning deeply. Building consistently. Improving through code.*
+
+<br/>
+
+<a href="https://github.com/pranjalyadav-codes">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/pranjalyadavcoding/">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Yadavpranjallearning/">
+  <img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+</a>
+<a href="https://www.kaggle.com/pranjalyadavcodes">
+  <img src="https://img.shields.io/badge/Kaggle-18181B?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+</a>
 
 </div>
 
 ---
 
-```bash
-$ cat about_me.txt
-```
+## About Me
 
-## `01` / ABOUT ME
+I'm pursuing the **BS in Data Science and Applications at IIT Madras**, working toward a career as an AI/ML Engineer.
 
-I'm pursuing the **BS in Data Science and Applications at IIT Madras**, with a long-term goal of becoming an AI/ML Engineer.
-
-- Exploring machine learning through mathematical intuition and implementation.
-- Strengthening problem-solving skills with Data Structures and Algorithms in Python.
-- Working with Python tools for data manipulation, analysis, and visualization.
+- Exploring machine learning, its mathematical foundations, and practical implementation.
+- Strengthening problem-solving skills through Data Structures and Algorithms in Python.
+- Working with Python libraries for data analysis and visualization.
 - Developing software engineering skills alongside my data science journey.
-- Interested in building practical projects that solve meaningful problems.
+- Interested in building practical, well-documented projects that solve real problems.
 
-```python
-class PranjalYadav:
-    def __init__(self):
-        self.role = "Aspiring AI/ML Engineer"
-        self.education = "IIT Madras — BS Data Science"
-        self.languages = ["Python", "Java", "JavaScript", "SQL"]
-        self.focus = [
-            "Machine Learning",
-            "Data Structures & Algorithms",
-            "Deep Learning",
-        ]
+**My approach:** Understand the fundamentals, implement the ideas, evaluate the results, and keep improving.
 
-    def current_mindset(self):
-        return "Learn -> Build -> Test -> Improve"
-```
-
----
-
-```bash
-$ ls ./tech-stack
-```
-
-## `02` / TECH STACK
+## Tech Stack
 
 ### Programming Languages
 
@@ -69,8 +52,8 @@ $ ls ./tech-stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib&theme=dark" alt="NumPy, Pandas, Scikit-learn and Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-111111?style=flat-square&logoColor=00FF41" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/SQL-Database%20Queries-111111?style=flat-square&logo=postgresql&logoColor=00FF41" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4169E1?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Web Development
@@ -79,97 +62,93 @@ $ ls ./tech-stack
   <img src="https://skillicons.dev/icons?i=flask,bootstrap,vue&theme=dark" alt="Flask, Bootstrap and Vue.js"/>
 </p>
 
-### Tools & Environment
+### Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux and VS Code"/>
 </p>
 
----
-
-```bash
-$ cat current_focus.txt
-```
-
-## `03` / CURRENT FOCUS
+## Currently Learning
 
 | Area | Focus |
-|---|---|
-| Machine Learning | Algorithms, model training, evaluation, and mathematical foundations |
+|:--|:--|
+| Machine Learning | Algorithms, model evaluation, and mathematical intuition |
 | DSA with Python | Data structures, algorithmic patterns, and problem-solving |
 | Deep Learning | Neural networks and core concepts |
-| Data Science | Data cleaning, exploration, analysis, and visualization |
+| Data Science | Data manipulation, exploratory analysis, and visualization |
 
-**Learning principle:** Understand the concept, implement it, evaluate the result, and document what you learn.
+## Featured Projects
 
----
+*This section will grow as I build and document projects.*
 
-```bash
-$ find ./projects -maxdepth 1 -type d
-```
+Replace the placeholders below with actual repositories when they're ready to showcase.
 
-## `04` / PROJECTS
+<details>
+<summary><b>Project 01 — Machine Learning</b></summary>
 
-*Projects will be added here as I build and document them.*
+- **Problem:** Describe the problem you're solving.
+- **Approach:** Explain the model, methodology, and evaluation.
+- **Tech stack:** Python, NumPy, Pandas, Scikit-learn.
+- **Repository:** Add your project link here.
 
-> Replace this section with links to completed repositories. For each project, explain the problem, approach, technology stack, results, and limitations.
+</details>
 
-| Project | Description | Repository |
-|---|---|---|
-| `Project 01` | Add your first completed project | Coming soon |
-| `Project 02` | Add another project | Coming soon |
-| `Project 03` | Add a project demonstrating practical ML or software skills | Coming soon |
+<details>
+<summary><b>Project 02 — Data Analysis</b></summary>
 
----
+- **Problem:** Describe the question you're investigating.
+- **Approach:** Explain the data cleaning, analysis, and insights.
+- **Tech stack:** Python, Pandas, Matplotlib, Seaborn.
+- **Repository:** Add your project link here.
 
-```bash
-$ git status
-```
+</details>
 
-## `05` / GITHUB ACTIVITY
+<details>
+<summary><b>Project 03 — Software Development</b></summary>
+
+- **Problem:** Describe the application or tool.
+- **Approach:** Explain the main features and implementation.
+- **Tech stack:** Flask, HTML, CSS, JavaScript, or other relevant tools.
+- **Repository:** Add your project link here.
+
+</details>
+
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/pranjalyadav-codes">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranjalyadav-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranjalyadav-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics"/>
 </a>
-
 <a href="https://github.com/pranjalyadav-codes">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalyadav-codes&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalyadav-codes&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalyadav-codes&bg_color=0D1117&color=C9D1D9&line=00FF41&point=FFFFFF&area=true&hide_border=true)](https://github.com/pranjalyadav-codes)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalyadav-codes&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/pranjalyadav-codes)
+
+</div>
+
+## Coding Profiles
+
+<div align="center">
+
+| Platform | Profile | Focus |
+|:--|:--|:--|
+| GitHub | [@pranjalyadav-codes](https://github.com/pranjalyadav-codes) | Projects and collaboration |
+| LeetCode | [View profile](https://leetcode.com/u/Yadavpranjallearning/) | DSA and coding practice |
+| Kaggle | [View profile](https://www.kaggle.com/pranjalyadavcodes) | Data science and ML |
+| LinkedIn | [Connect](https://www.linkedin.com/in/pranjalyadavcoding/) | Professional networking |
 
 </div>
 
 ---
 
-```bash
-$ ./connect.sh
-```
-
-## `06` / CONNECT
-
-Interested in AI, machine learning, data science, algorithms, and building useful software.
-
-- **GitHub:** [@pranjalyadav-codes](https://github.com/pranjalyadav-codes)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pranjalyadavcoding/)
-- **LeetCode:** [View my profile](https://leetcode.com/u/Yadavpranjallearning/)
-- **Kaggle:** [Explore my profile](https://www.kaggle.com/pranjalyadavcodes)
-
 <div align="center">
 
-```text
-[ PROCESS ]  Learn continuously.
-[ EXECUTE ]  Build consistently.
-[ DEBUG   ]  Learn from mistakes.
-[ REPEAT  ]  Become better every day.
-```
-
-**`EOF` — Still learning. Still building.**
+*Build with purpose. Learn from every iteration.*
 
 </div>
